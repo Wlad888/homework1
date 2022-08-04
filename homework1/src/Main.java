@@ -39,7 +39,7 @@ public class Main {
     System.out.println("Get result");
 
     int l = calculateDiv(u, v);
-    System.out.println(o);
+    System.out.println(l);
 
   }
 }
